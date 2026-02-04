@@ -1,52 +1,50 @@
+# Hi, I'm Cheng Chen 👋
+
 <div align="center">
-
-# Hi, I'm chengchen512 👋  
-**MS @ HUST | BS @ WUT | Computer Vision & C++/Python**
-
+  M.S. Student at HUST 🎓 · Deep Learning & Embedded Systems Enthusiast 🤖 · Bridging Hardware and AI 🌉
 </div>
 
-## 📌 Profile
-- 🎓 **Education**: Master's at **HUST**, Bachelor's from **WUT**.
-- 💻 **Dev**: Proficient in **C++** (STL/Logic) & **Python**. Experienced in **Linux/Docker** environments.
-- 🧠 **AI**: Specialized in **PyTorch** & **Event-based Vision** (NER-Net). 
-- 🎯 **Paddle Experience**: Trained & tuned object detection models using **PaddleDetection**.
-- 🚀 **Goal**: Joining **PaddlePaddle Start-up Plan** for open-source R&D.
-
+## 📌 About Me
+- 🎓 **Education**: M.S. in Electronic Information @ **HUST** | B.S. @ **WUT**.
+- 🔍 **Interests**: Deep Learning (CV), Embedded Systems, and SLAM.
+- 🌱 **Mindset**: A lifelong learner dedicated to bridging the gap between hardware and AI. Currently seeking to contribute to the open-source community.
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PaddlePaddle-0052D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+	<!-- Languages -->
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/Verilog-555555?style=for-the-badge" />
+	<br>
+	<!-- Frameworks -->
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/PaddlePaddle-2932E1?style=for-the-badge&logo=baidu&logoColor=white" />
+	<br>
+	<!-- Tools -->
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
-
-## 📂 Key Projects
-- **Event-based Vision**: Researching **NER-Net** reconstruction algorithms using PyTorch.
-- **Visual SLAM**: Architecture analysis and C++ debugging for **ORB-SLAM3**.
-- **Object Detection**: End-to-end model training and tuning via **PaddleDetection**.
 
 ---
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chengchen512&hide_border=true&area=true&area_color=0969da" width="80%" />
-  <br>
-  <img height="140" src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&hide_border=true&cache_seconds=86400" />
-  <img height="140" src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&layout=compact&hide_border=true&cache_seconds=86400" />
+  <!-- Stats & Top Langs -->
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  
+  <br><br>
+
+  <!-- Commitment to Open Source -->
+  <p>
+    <i>📉 <b>Note</b>: Currently, most of my development takes place in <b>private research repositories</b>.</i><br>
+    <i>✨ I am actively working on refactoring my projects and plan to release more open-source contributions soon. Stay tuned! 🚀</i>
+  </p>
 </div>
 
 ---
 
 ## 📫 Contact
-- **Email**: [Your Email]
-- **AI Studio**: [Your Profile Link]
-
-<div align="center">
-"Exploring AI, contributing to Open Source." 🚀
-</div>
+- **Email**: 2497083717@qq.com
