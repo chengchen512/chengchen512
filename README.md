@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 - 🎓 **Education**: M.S. in Electronic Information @ **HUST** | B.S. @ **WUT**.
-- 🔍 **Interests**: Deep Learning (CV), Embedded Systems, and SLAM.
+- 🔍 **Interests**: Deep Learning, Embedded Systems, and LLM inference systems.
 - 🌱 **Mindset**: A lifelong learner dedicated to bridging the gap between hardware and AI. Currently seeking to contribute to the open-source community.
 ---
 
@@ -32,8 +32,8 @@
 ## 📊 Stats
 <div align="center">
   <!-- Stats & Top Langs -->
-  <img src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&theme=tokyonight&hide_border=true&layout=donut" height="180" alt="Top Languages" />
   
   <br><br>
 
