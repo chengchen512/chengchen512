@@ -31,16 +31,12 @@
 
 ## 📊 Stats
 <div align="center">
-  <!-- Stats & Top Langs -->
-  <img src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&theme=tokyonight&hide_border=true&layout=donut" height="180" alt="Top Languages" />
-  
-  <br><br>
-
-  <!-- Commitment to Open Source -->
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api?username=chengchen512&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-rose.vercel.app/api/top-langs/?username=chengchen512&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" height="180" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=chengchen512&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   <p>
-    <i>📉 <b>Note</b>: Currently, most of my development takes place in <b>private research repositories</b>.</i><br>
-    <i>✨ I am actively working on refactoring my projects and plan to release more open-source contributions soon. Stay tuned! 🚀</i>
+    <i>✅ Stats now include contributions from both <b>public</b> and <b>private</b> repositories.</i>
   </p>
 </div>
 
